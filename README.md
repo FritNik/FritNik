@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, ich bin Niklas 👋
+
+🎓 **Student der Wirtschaftsmathematik** an der RPTU Kaiserslautern  
+📊 Interessiert an **Machine Learning Techniken** und arbeite gerne an **Data Science Projekten**  
+💡 Ich liebe es, komplexe Probleme zu analysieren und kreative Lösungen mit Daten zu finden
+
+---
+- **Was mich motiviert:** Aus Daten Mehrwert schaffen und ML-Methoden praktisch anwenden
+
+---
 
 <!--
 **FritNik/FritNik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
